@@ -20,7 +20,7 @@ app.use(express.static("public"));
 
 //MongoDB Setting
 mongoose.set('strictQuery', true);
-mongoose.connect('mongodb://127.0.0.1/journalDB');
+mongoose.connect('mongodb+srv://cheryiong62:Kevin480023@cluster0.xe0y6tt.mongodb.net/journalDB');
 
 const contentsSchema = {
   title: String,
