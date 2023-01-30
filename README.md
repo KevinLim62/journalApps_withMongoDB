@@ -1,2 +1,2 @@
 # journalApps_withMongoDB
-# Used languages: HTML, Javascript, CSS, NodeJs(Express), MongoDB
+# Used Languages/Frameworks: HTML, Javascript, CSS, NodeJs(Express), MongoDB
